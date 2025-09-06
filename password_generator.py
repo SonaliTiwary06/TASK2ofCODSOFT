@@ -32,4 +32,5 @@ while True:
         break
 
 #print goodbye msg
-print("\nThanks for using the Password Generator. Have a fun day 🎉")
+print("\nThanks for using the Password Generator. Have a fun day ")
+
